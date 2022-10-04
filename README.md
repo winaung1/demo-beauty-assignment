@@ -9,6 +9,14 @@ npm run dev
 # or
 yarn dev
 ```
+if Next command not found: npm install next
+
+## 1. inside the top level folder, create a new file called .env.local
+## 2. add the two lines below in the .env.local file you just created. 
+
+SHOPIFY_STORE_DOMAIN = dime-beauty-demo.myshopify.com
+SHOPIFY_STOREFRONT_ACCESSTOKEN = df6fc859931d69c4b8a6d2fbb6ea2286
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

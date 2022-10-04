@@ -1,5 +1,4 @@
 import ProductCards from "./components/ProductCards"
-// import ProductPage from "./components/ProductPage"
 import axios from "axios"
 import {useState} from 'react'
 import DiscountPrice from "./components/DiscountPriceContainer/DiscountPrice";
